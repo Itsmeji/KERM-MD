@@ -21,3 +21,14 @@
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/RayanHack5/KERM-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+#### SETUP
+
+1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈𝐃 (𝐏𝐀𝐈𝐑𝐈𝐍𝐆)
+    <br>
+<a href='' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+
+
+2.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈𝐃 (𝐒𝐂𝐀𝐍-𝐐𝐑)
+    <br>
+<a href='' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
