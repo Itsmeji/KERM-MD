@@ -22,7 +22,7 @@
 
 <a href='https://github.com/RayanHack5/KERM-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-#### SETUP
+#### 2. SETUP
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈𝐃 (𝐏𝐀𝐈𝐑𝐈𝐍𝐆)
     <br>
